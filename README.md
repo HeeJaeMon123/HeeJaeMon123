@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeJaeMon123&repo=ML-DL-for-everyone)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={prkhj98@naver.com})](https://solved.ac/{prkhj98@naver.com})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={prkhj98})](https://solved.ac/{prkhj98})
