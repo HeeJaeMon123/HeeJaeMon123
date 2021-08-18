@@ -37,4 +37,11 @@ Here are some ideas to get you started:
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=prkhj98)](https://solved.ac/prkhj98)
 
 
-## Scholarship
+## 😄 Scholarship
++ 2018 Fall semester scholarship
++ 2019 Spring semester scholarship (3rd)
++ 2019 Fall semester scholarship (1st)
++ 2020 Spring semester scholarship (1st)
++ 2020 Fall semester scholarship (1st)
++ 2021 Spring semester scholarship (2nd)
++ 2021 Fall semester scholarship (4th)
