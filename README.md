@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=HeeJaeMon123&fontSize=90&animation=fadeIn)
 
++ Seoul National University of Science and Technology (Seoultech)
++ 
++ Department of Computer Science and Engineering
+
++ blog: <https://heejaemon123.tistory.com/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)   
 
@@ -27,6 +32,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeJaeMon123&&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeJaeMon123&repo=ML-DL-for-everyone)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=prkhj98)](https://solved.ac/prkhj98)
