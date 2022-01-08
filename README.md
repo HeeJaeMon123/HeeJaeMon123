@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **HeeJaeMon123/HeeJaeMon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,6 +42,7 @@ Here are some ideas to get you started:
 
 
 ## 😄 Scholarship
++ 152학점 수강
 + 2018 Fall semester scholarship
 + 2019 Spring semester scholarship (3rd)
 + 2019 Fall semester scholarship (1st)
@@ -50,3 +50,4 @@ Here are some ideas to get you started:
 + 2020 Fall semester scholarship (1st)
 + 2021 Spring semester scholarship (2nd)
 + 2021 Fall semester scholarship (4th)
++ 2021 Fall semester 4.5/4.5
