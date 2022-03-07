@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=HeeJaeMon123&fontSize=90&animation=fadeIn)
 
-* I am like to styudy ML/DL, Computer Network
+* I am like to study ML/DL, Computer Network
 
 + Seoul National University of Science and Technology (Seoultech)
 
