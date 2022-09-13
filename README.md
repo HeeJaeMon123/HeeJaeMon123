@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 * I am like to study ML/DL, Computer Network
 
-+ Seoul National University of Science and Technology (Seoultech)
++ Seoul National University of Science and Technology (SEOULTECH)
 
 + Department of Computer Science and Engineering
 
