@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 ## 😄 Scholarship
-+ 152학점 수강
++ Take 152 credits
 + 2018 Fall semester scholarship
 + 2019 Spring semester scholarship (3rd)
 + 2019 Fall semester scholarship (1st)
