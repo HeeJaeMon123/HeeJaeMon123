@@ -34,13 +34,14 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/python-%23013243.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%23013243.svg?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeJaeMon123&&show_icons=true&theme=dark)
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=prkhj98)](https://solved.ac/prkhj98)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 닉네임&layout=레이아웃 스타일&theme=스타일)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeJaeMon123&layout=Demo&theme=onedark)
 
 
 ## 😄 Scholarship
